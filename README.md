@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/a2lin/SimplyFS.svg?branch=master)](https://travis-ci.org/a2lin/SimplyFS)
 SimplyFS
 ========
 
