@@ -1,2 +1,4 @@
-language: "c"
+install:
+  - brew install osxfuse
+language: "objective-c"
 script: "make"
