@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/a2lin/SimplyFS.svg?branch=master)](https://travis-ci.org/a2lin/SimplyFS)
-SimplyFS
+SimplyFS [![Build Status](https://travis-ci.org/a2lin/SimplyFS.svg?branch=master)](https://travis-ci.org/a2lin/SimplyFS)
 ========
 
 What is filesystem? This is filesystem.
